@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello World!	</title>
-	<atom:link href="/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/hello-world-2/</link>
+	<atom:link href="https://hliphoto.github.io/photo/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hliphoto.github.io/photo/hello-world-2/</link>
 	<description></description>
 	<lastBuildDate>Mon, 21 Aug 2023 06:32:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
